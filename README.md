@@ -1,6 +1,33 @@
-# NewsfeedApp
+# NewsfeedApp (MEAN Stack app)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
+
+## Requirements
+
+- NodeJS
+- MongoDB
+- @angular/cli
+
+## How to build & run
+
+- clone repository
+- cd into app (root) directory
+```
+$ cd newsfeedApp/
+```
+- next, install all dependencies
+```
+$ npm install
+```
+- after installation, build the app (dist folder is created)
+```
+$ ng build
+```
+- next, launch node server on port 3000
+```
+$ node server
+```
+- finally, open a browser window and go to 'http://localhost:3000' to interact with fully functioning app
 
 ## Development server
 
