@@ -15,7 +15,6 @@ h2 {
   width: 25em;
 }
 .newsfeedItems li {
-/*  cursor: pointer;*/
   position: relative;
   left: 0;
   background-color: #EEE;
