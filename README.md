@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Requirements
 
 - NodeJS
+- ExpressJS
 - MongoDB
 - @angular/cli
 
