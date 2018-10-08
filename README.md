@@ -20,7 +20,7 @@ $ cd newsfeedApp/
 ```
 $ npm install
 ```
-- after installation, build the app (dist folder should be created now in root directory)
+- after installation, build the app (dist/ folder should be created now in root directory)
 ```
 $ ng build
 ```
